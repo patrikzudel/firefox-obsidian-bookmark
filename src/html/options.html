@@ -1,23 +1,30 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="../styles/options.css">
+    <link rel="stylesheet" href="/src/css/pico.min.css">
+    <style>
+        body {
+            padding: 40px;
+        }
+    </style>
 </head>
-<body>
-<form id="clipper_options" style="display: flex; flex-direction: column; gap: 8px; align-items: center">
-    <h1>Fill out the following settings</h1>
-    <b>
-    <label for="clipper_opts_vault_name">Vault name</label>
-    </b>
-    <input type="text" placeholder="MyVault" id="clipper_opts_vault_name" />
-    <b>
-    <label for="clipper_opts_path">Document path</label>
-    </b>
-    <input type="text" placeholder="Bookmarks" id="clipper_opts_path" />
-    <button type="submit">Save</button>
-</form>
-<div id="message"></div>
 
-<script type="module" src="../scripts/options.js"></script>
+<body>
+    <form id="clipper_options" style="display: flex; flex-direction: column; gap: 8px; align-items: center">
+        <h1>Fill out the following settings</h1>
+        <b>
+            <label for="clipper_opts_vault_name">Vault name</label>
+        </b>
+        <input type="text" placeholder="MyVault" id="clipper_opts_vault_name" />
+        <b>
+            <label for="clipper_opts_path">Document path</label>
+        </b>
+        <input type="text" placeholder="Bookmarks" id="clipper_opts_path" />
+        <button type="submit">Save</button>
+    </form>
+    <div id="message"></div>
+
+    <script type="module" src="../scripts/options.js"></script>
 </body>

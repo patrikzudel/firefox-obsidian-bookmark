@@ -4,7 +4,7 @@
 ##### Fetches the Website Description if one is provided in the Head of HTML.
 
 # 📃 Bookmark Example
-> ## Kavita
+> ## Kavita #self-hosted
 > *Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends. book reader, self hosted, manga, comics, free, manhwa, e readers, electronic book readers, digital book reader, cartoon*
 > https://www.kavitareader.com/
 
