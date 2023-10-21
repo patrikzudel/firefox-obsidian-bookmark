@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/patrikzudel/firefox-obsidian-bookmark/main/Preview.png" alt="Preview">
+
 # ⚡ Bookmark Firefox tab into Obsidian.
 #### This extension adds a button to the address bar that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 
@@ -34,6 +36,7 @@
 ## ❤ Credits
 
 - [ObsidianClip](https://github.com/ClarkAllen1556/obsidian_clip/tree/main)(Obsidian Clip by ClarkAllen1556)
+- [Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian/tree/main)(Bookmarks-For-Obsidian by abhn)
 - [PhosphorIcons](https://phosphoricons.com/)(Logo and Icon)
 
 ---

@@ -23,6 +23,12 @@
     "browser_style": true
   },
   "icons": {
-    "128": "assets/ico_128.png"
+    "32": "assets/ico_32.png"
+  },
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "obsidian_website_bookmarks@patrikzudel"
   }
+}
+
 }
