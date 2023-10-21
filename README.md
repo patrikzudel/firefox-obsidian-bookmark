@@ -20,7 +20,22 @@
 4. Click on Options in the menu and fill out the **Vault name** and **Document Path**.
 5. Go on a **Website** you want to bookmark and click on the **Bookmark button** in the **Address bar**.
 
+
+## 🍀 Supporters
+
+**[!["Buy Me A Ramen"](https://raw.githubusercontent.com/patrikzudel/patrikzudel/main/ramen.png)](https://www.buymeacoffee.com/patrikzero)**
+
+> If you like this project and would like to support me, feel free to buy me a ramen! 🍜🍜🍜
+
+> Or **Paypal:**
+
+**[!["Buy Me A Ramen"](https://raw.githubusercontent.com/patrikzudel/patrikzudel/main/ramenpaypal.png)](https://ko-fi.com/patrikzudel)**
+
 ## ❤ Credits
 
 - [ObsidianClip](https://github.com/ClarkAllen1556/obsidian_clip/tree/main)(Obsidian Clip by ClarkAllen1556)
 - [PhosphorIcons](https://phosphoricons.com/)(Logo and Icon)
+
+---
+
+💻❤🍲 by [Patrik Žúdel](https://twitter.com/PatrikZero)
