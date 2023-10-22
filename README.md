@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/patrikzudel/firefox-obsidian-bookmark/main/preview.jpg" alt="Preview">
+<img src="https://raw.githubusercontent.com/patrikzudel/firefox-obsidian-bookmark/main/images/preview.jpg" alt="Preview">
 
 # ⚡ Bookmark Firefox tab into Obsidian.
 #### This extension adds a button to the address bar that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
@@ -7,8 +7,8 @@
 
 # 📃 Bookmark Example
 > ## Kavita #self-hosted
-> *Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends. book reader, self hosted, manga, comics, free, manhwa, e readers, electronic book readers, digital book reader, cartoon*
-> https://www.kavitareader.com/
+> - *Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends. book reader, self hosted, manga, comics, free, manhwa, e readers, electronic book readers, digital book reader, cartoon*
+> - https://www.kavitareader.com/
 
 ## 📖 How to use 
 
@@ -32,6 +32,10 @@
 > Or **Paypal:**
 
 **[!["Buy Me A Ramen"](https://raw.githubusercontent.com/patrikzudel/patrikzudel/main/ramenpaypal.png)](https://ko-fi.com/patrikzudel)**
+
+
+## ⌨️ Build
+> `web-ext build --ignore-files ./images`
 
 ## ❤ Credits
 

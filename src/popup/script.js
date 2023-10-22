@@ -10,12 +10,12 @@ async function clipPage(url, title, tags, description) {
 
   let str = `\n## ${title} ${tags}\n`
   if (description !== "") {
-    str = str + `*${description}*\n`
+    str = str + `- *${description}*\n`
   }
+  str = str + `- ${url}`
   let newStr = encodeURIComponent(str);
-  let newUrl = encodeURIComponent(url);
 
-  const obsidianURI = `obsidian://advanced-uri?vault=${vaultName}&filepath=${vaultPath}&data=${newStr}${newUrl}&mode=append`
+  const obsidianURI = `obsidian://advanced-uri?vault=${vaultName}&filepath=${vaultPath}&data=${newStr}&mode=append`
 
   browser.tabs.create({
     url: obsidianURI
