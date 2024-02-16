@@ -19,7 +19,7 @@
    1. **TBA**
 
 3. Open **Firefox Add-ons Manager** and click on "**Obsidian Website Bookmarks**"
-4. Click on Options in the menu and fill out the **Vault name** and **Document Path**.
+4. Click on Options in the menu and fill out the **Vault name** and **Document Path**. Example for **Vault name** would be "My Vault", example for **Document Path** would be "Bookmarks" or if the file is placed in a folder "Folder/Bookmarks".
 5. Go on a **Website** you want to bookmark and click on the **Bookmark button** in the **Address bar**.
 
 
